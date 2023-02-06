@@ -1,0 +1,11 @@
+{
+  "name": "portaone-test-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "RicardoKd <richardo.kadyan@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
